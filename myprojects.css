@@ -1,0 +1,328 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+.Batsman-Biographyt5 {
+    padding: 10px;
+    padding-left: 15px;
+    background-color: #fb4e71;
+    height: 170px;
+    width: 400px;
+}
+
+.single-eventt5 {
+    margin: 12px;
+}
+
+.single-event1t5 {
+    margin: 12px;
+    margin-left: 0px;
+}
+
+.event-descriptiont5 {
+    font-size: 12px;
+    width: 100px;
+    font-weight: 600;
+    font-family: "Roboto";
+}
+
+.record-descriptiont5 {
+    padding-left: 10px;
+    width: 210px;
+    margin-top: -5px;
+    color: #888888;
+}
+
+.match-teamvsteamt5 {
+    font-size: 20px;
+    padding: 10px;
+    width: 150px;
+}
+
+.record-photo-descriptiont5 {
+    height: 160px;
+    background-color: white;
+    width: 360px;
+    border-radius: 12px;
+    margin-left: 20px;
+}
+
+.records-heading-videost5 {
+    font-size: 18px;
+    font-weight: 600;
+    font-family: "Roboto";
+    padding: 15px;
+    padding-bottom: 5px;
+    padding-top: 20px;
+    /* margin-top:1px; */
+}
+
+.image-player-recordt5 {
+    height: 160px;
+}
+
+.bottom-containert5 {
+    background-color: lightblue;
+    height: 500px;
+    width: 400px;
+}
+
+.image-player-top-sectiont5 {
+    padding: 10px;
+}
+
+.Player-namet5 {
+    color: White;
+    font-size: 35px;
+    width: 260px;
+}
+
+.Player-Descriptiont5 {
+    color: white;
+    width: 260px;
+}
+
+.contab {
+    text-align: center;
+}
+
+.container-outt4 {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/newsbg.png");
+    background-size: cover;
+    width: 350px;
+    height: 568px;
+}
+
+.button1t4 {
+    border-radius: 8px;
+    background-color: #323f4b;
+    color: #ffffff;
+    font-family: "Roboto";
+    width: 120px;
+    height: 45px;
+}
+
+.card-int4 {
+    background-color: white;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    padding: 20px;
+    width: 350px;
+}
+
+.main-headingt4 {
+    color: #323f4b;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.para2t4 {
+    font-size: 12px;
+    padding-top: 10px;
+    color: #7b8794;
+}
+
+.para1t4 {
+    font-weight: 100;
+    /* padding-top:15px; */
+    /* padding-left:15px; */
+    font-size: 12px;
+    color: #7b8794;
+    font-family: "Roboto";
+}
+
+.bg-containert3 {
+    height: 100vh;
+    background-image: url(" https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/foodbg.png");
+    background-size: cover;
+}
+
+.buttont3 {
+    background-color: #ffffff;
+    color: #323f4b;
+    margin: 10px;
+    margin-left: 20px;
+    width: 120px;
+    height: 35px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-width: 0px;
+    font-family: "roboto";
+    font-size: 15px;
+}
+
+.main-headingt3 {
+    /* padding:10px; */
+    margin: 20px;
+    margin-bottom: 0px;
+    font-size: 35px;
+    font-family: "Bree serif";
+}
+
+.paragrapht3 {
+    font-family: "roboto";
+    margin: 20px;
+    margin-bottom: 5px;
+    margin-top: 10px;
+    color: "#323f4b";
+    font-weight: bold;
+}
+
+.temp-cardt3 {
+    background-color: #f6c56e;
+    height: 35vh;
+    border-top-right-radius: 15px;
+    border-top-left-radius: 15px;
+}
+
+.Diwali-top-sectiont2 {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/diwali-bg.png");
+    background-size: cover;
+    height: 30vh;
+}
+
+.image-sett2 {
+    width: 60px;
+    height: 70px;
+    /* padding:10px; */
+    margin-left: 45px;
+    margin-top: 10px;
+}
+
+.parat2 {
+    text-align: center;
+    font-weight: 500;
+    /* padding-left:40px; */
+    margin: 5px;
+    /* margin-top:-5px; */
+}
+
+.Item-namet2 {
+    margin-top: 8px;
+    /* margin-left:10px; */
+    text-align: center;
+    font-size: 13px;
+    color: #616e7c;
+    padding-left: 0px;
+}
+
+.para-buttont2 {
+    margin: 10px;
+    color: white;
+    font-style: "Roboto";
+}
+
+.button-moret2 {
+    margin: 10px;
+    font-style: "Caveat";
+    border: 0px;
+    height: 40px;
+    width: 120px;
+}
+
+.Diwali-top-section-headingt2 {
+    color: white;
+    font-family: "Caveat";
+    width: 250px;
+    padding: 35px;
+}
+
+.Diwali-items-sectiont2 {
+    background-color: lightBlue;
+    /* height:70vh; */
+    padding: 35px;
+    /* margin:25px; */
+}
+
+.Diwali-items-cardt2 {
+    background-color: White;
+    width: 150px;
+    height: 150px;
+    border-radius: 10px;
+    margin: 25px;
+}
+
+.bg-imaget1 {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/arvrbg.png");
+    height: 600px;
+    width: 350px;
+    background-size: cover;
+    border-radius: 10px;
+    border-color: green;
+    border-style: solid;
+    border-width: 5px;
+}
+
+.container-outt1 {
+    margin-top: 30px;
+}
+
+.paragrapht1 {
+    font-family: "Roboto";
+    font-weight: 501;
+    font-size: 15px;
+    color: #323f4b;
+    /* padding-left:10px; */
+    width: 290px;
+}
+
+.main-headingt1 {
+    width: 300px;
+    color: #5752ab;
+    font-size: 25px;
+    padding-top: 10px;
+    /* padding-left:10px; */
+    font-weight: 590;
+    font-family: "Bree Serif";
+}
+
+.button2t1 {
+    background-color: #5752ab;
+    color: #ffffff;
+    border-radius: 5px;
+    border-width: 2px;
+    height: 40px;
+    margin: 10px;
+    width: 150px;
+}
+
+.button1t1 {
+    background-color: #ffffff;
+    color: #171f46;
+    border-radius: 5px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: #d7dfe9;
+    height: 40px;
+    margin: 10px;
+    width: 120px;
+}
+
+.adv-cardt1 {
+    padding: 20px;
+    background-color: #ffffff;
+    height: 30vh;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-style: solid;
+    border-color: green;
+}
+
+.image123 {
+    background-size: cover;
+    height: 30vh;
+}
+
+.para12 {
+    text-align: center;
+}
+
+.head {
+    text-decoration: underline;
+    font-style: Italic;
+}
+
+.imagenew {
+    height: 20vh;
+    width: 35vh;
+    margin: 10px;
+}
